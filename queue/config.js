@@ -1,0 +1,7 @@
+module.exports = {
+
+  NUMBER_OF_WORKERS: 1,
+  MESSAGE_EXPIRY: 10000, // 10 seconds
+  QUEUE_LENGTH: 100,
+  NUMBER_OF_RETRIES: 3
+}
